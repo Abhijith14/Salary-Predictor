@@ -1,5 +1,10 @@
 # Salary Prediciton based on Years of Experience
 <b>ML Project #1:</b><br><I>Prediction of salary based on the years of experience using Simple Linear Regression.</I>
+<br>
+
+<I>Find my Kaggle Solution over here :</I> [abhijithudayakumar/salary-predictor-simple-linear-regression](https://www.kaggle.com/abhijithudayakumar/salary-predictor-simple-linear-regression)
+
+<B><I>Consider Following me @ <a href="https://www.kaggle.com/abhijithudayakumar">abhijithudayakumar</a></i></b>
 
 <br>
 
