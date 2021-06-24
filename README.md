@@ -4,7 +4,7 @@
 
 <I>Find my Kaggle Solution over here :</I> [abhijithudayakumar/salary-predictor-simple-linear-regression](https://www.kaggle.com/abhijithudayakumar/salary-predictor-simple-linear-regression)
 
-<B><I>Consider Following me @ <a href="https://www.kaggle.com/abhijithudayakumar">abhijithudayakumar</a></i></b>
+<B><I>Follow me @ <a href="https://www.kaggle.com/abhijithudayakumar">abhijithudayakumar</a></i></b>
 
 <br>
 
