@@ -17,5 +17,11 @@ The following graph shows the Salary vs Experience (Test Set).
 
 <img src="https://raw.githubusercontent.com/Abhijith14/Salary-Predictor/master/readme_assets/after.png">
 
-From the graph, it is clear that the model predicts the salary well enough with the provided years of experience.
+
+Using Simple Linear Regression, we got a 99% accurate model.
+
+<img src="https://raw.githubusercontent.com/Abhijith14/Salary-Predictor/master/readme_assets/bargraph.png">
+
+
+Hence, it is clear that the model predicts the salary well enough with the provided years of experience.
 
